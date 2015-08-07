@@ -1,0 +1,29 @@
+
+Procimg sample [ º ]
+
+This simple program was made to help you learn OpenCV development, it have a basic program flow and uses some of the OpenCV capabilities.
+
+It is a free software under the FreeBSD licence, read the LICENCE file for more details.
+
+
+--How to build--
+
+create a build directory and enter on it
+
+$mkdir build
+$cd build
+
+Generate Make file with CMake
+
+$cmake ..
+
+Return to source's base directory and make
+
+$cd ..
+$make
+
+
+
+--Running--
+
+Enter the build directory run as follows
