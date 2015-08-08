@@ -17,13 +17,14 @@ Generate Make file with CMake
 
 $cmake ..
 
-Return to source's base directory and make
+Once you have a Makefile you can make
 
-$cd ..
 $make
 
+Run the program
+
+./procimg
 
 
---Running--
 
-Enter the build directory run as follows
+
